@@ -1,0 +1,19 @@
+[16:20:20.764] Global cache location '/home/tom/.cache/typescript/3.4.5', safe file path '/home/tom/code/ossu/angular-mastery-udemy/recipes-app/node_modules/typescript/lib/typingSafeList.json', types map path /home/tom/code/ossu/angular-mastery-udemy/recipes-app/node_modules/typescript/lib/typesMap.json
+[16:20:20.764] Processing cache location '/home/tom/.cache/typescript/3.4.5'
+[16:20:20.764] Trying to find '/home/tom/.cache/typescript/3.4.5/package.json'...
+[16:20:20.765] Loaded content of '/home/tom/.cache/typescript/3.4.5/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.472"}}
+[16:20:20.765] Loaded content of '/home/tom/.cache/typescript/3.4.5/package-lock.json'
+[16:20:20.765] Finished processing cache location '/home/tom/.cache/typescript/3.4.5'
+[16:20:20.765] Process id: 15697
+[16:20:20.765] NPM location: /usr/local/bin/npm (explicit '--npmLocation' not  provided)
+[16:20:20.765] validateDefaultNpmLocation: false
+[16:20:20.765] Npm config file: /home/tom/.cache/typescript/3.4.5/package.json
+[16:20:20.765] Updating types-registry npm package...
+[16:20:20.765] Exec: /usr/local/bin/npm install --ignore-scripts types-registry@latest
+[16:20:21.598]     Succeeded. stdout:
+    + types-registry@0.1.472
+    updated 1 package and audited 1 package in 0.515s
+found 0 vulnerabilities
+
+
+[16:20:21.598] Updated types-registry npm package

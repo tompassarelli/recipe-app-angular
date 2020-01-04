@@ -1,0 +1,24 @@
+Info 0    [16:20:20.624] Starting TS Server
+Info 1    [16:20:20.624] Version: 3.4.5
+Info 2    [16:20:20.624] Arguments: /usr/local/bin/node /home/tom/code/ossu/angular-mastery-udemy/recipes-app/node_modules/.bin/tsserver --logFile /home/tom/code/ossu/angular-mastery-udemy/recipes-app/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/b1e5c85f84a2bc1b868b469855ef9007/tscancellation*
+Info 3    [16:20:20.624] Platform: linux NodeVersion: 13 CaseSensitive: true
+Info 4    [16:20:20.632] Search path: /home/tom/code/ossu/angular-mastery-udemy/recipes-app/src/app
+Info 5    [16:20:20.632] For info: /home/tom/code/ossu/angular-mastery-udemy/recipes-app/src/app/app.component.ts :: Config file name: /home/tom/code/ossu/angular-mastery-udemy/recipes-app/tsconfig.json
+Info 6    [16:20:20.632] Opened configuration file /home/tom/code/ossu/angular-mastery-udemy/recipes-app/tsconfig.json
+Info 7    [16:20:21.304] Starting updateGraphWorker: Project: /home/tom/code/ossu/angular-mastery-udemy/recipes-app/tsconfig.json
+Info 8    [16:20:22.893] Finishing updateGraphWorker: Project: /home/tom/code/ossu/angular-mastery-udemy/recipes-app/tsconfig.json Version: 1 structureChanged: true Elapsed: 1589ms
+Info 9    [16:20:22.919] DirectoryWatcher:: Triggered with /home/tom/code/ossu/angular-mastery-udemy/recipes-app/.log/ti-15690.log :: WatchInfo: /home/tom/code/ossu/angular-mastery-udemy/recipes-app 1 Project: /home/tom/code/ossu/angular-mastery-udemy/recipes-app/tsconfig.json WatchType: Wild card directory
+Info 10   [16:20:22.919] Project: /home/tom/code/ossu/angular-mastery-udemy/recipes-app/tsconfig.json Detected file add/remove of non supported extension: /home/tom/code/ossu/angular-mastery-udemy/recipes-app/.log/ti-15690.log
+Info 11   [16:20:22.919] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/tom/code/ossu/angular-mastery-udemy/recipes-app/.log/ti-15690.log :: WatchInfo: /home/tom/code/ossu/angular-mastery-udemy/recipes-app 1 Project: /home/tom/code/ossu/angular-mastery-udemy/recipes-app/tsconfig.json WatchType: Wild card directory
+Info 12   [16:23:30.547] Search path: /home/tom/code/ossu/angular-mastery-udemy/recipes-app/src/app/recipes
+Info 13   [16:23:30.547] For info: /home/tom/code/ossu/angular-mastery-udemy/recipes-app/src/app/recipes/recipes.component.ts :: Config file name: /home/tom/code/ossu/angular-mastery-udemy/recipes-app/tsconfig.json
+Info 14   [16:24:51.149] Starting updateGraphWorker: Project: /home/tom/code/ossu/angular-mastery-udemy/recipes-app/tsconfig.json
+Info 15   [16:24:51.191] Finishing updateGraphWorker: Project: /home/tom/code/ossu/angular-mastery-udemy/recipes-app/tsconfig.json Version: 2 structureChanged: false Elapsed: 41ms
+Info 16   [16:31:1.305] Starting updateGraphWorker: Project: /home/tom/code/ossu/angular-mastery-udemy/recipes-app/tsconfig.json
+Info 17   [16:31:1.317] Finishing updateGraphWorker: Project: /home/tom/code/ossu/angular-mastery-udemy/recipes-app/tsconfig.json Version: 3 structureChanged: false Elapsed: 12ms
+Info 18   [16:47:56.236] Starting updateGraphWorker: Project: /home/tom/code/ossu/angular-mastery-udemy/recipes-app/tsconfig.json
+Info 19   [16:47:56.258] Finishing updateGraphWorker: Project: /home/tom/code/ossu/angular-mastery-udemy/recipes-app/tsconfig.json Version: 4 structureChanged: false Elapsed: 22ms
+Info 20   [16:47:56.562] Starting updateGraphWorker: Project: /home/tom/code/ossu/angular-mastery-udemy/recipes-app/tsconfig.json
+Info 21   [16:47:56.587] Finishing updateGraphWorker: Project: /home/tom/code/ossu/angular-mastery-udemy/recipes-app/tsconfig.json Version: 5 structureChanged: false Elapsed: 24ms
+Info 22   [16:47:56.978] Starting updateGraphWorker: Project: /home/tom/code/ossu/angular-mastery-udemy/recipes-app/tsconfig.json
+Info 23   [16:47:56.997] Finishing updateGraphWorker: Project: /home/tom/code/ossu/angular-mastery-udemy/recipes-app/tsconfig.json Version: 6 structureChanged: false Elapsed: 19ms
